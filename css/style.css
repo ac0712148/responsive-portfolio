@@ -2,22 +2,13 @@ body{
     background-image: url("../images/bedge-grunge.png");
 }
 
-.nav-content {
-    text-align: center;
+.navbar-brand{
+    background-color: green;
 }
-.my-n0 {
-    margin-top: -0.5rem !important;
-    margin-bottom: -0.5rem !important;
-  }
-
-  .name {
+.name {
+    color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: 2rem;
     font-weight: bolder;
     margin-bottom: 0;
-  }
-  .about {
-      font-family: Arial, Helvetica, sans-serif;
-      margin-bottom: 0;
-      color: #e0e0e0;
-  }
+    font-size: xx-large;
+}
