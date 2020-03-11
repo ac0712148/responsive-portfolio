@@ -1,3 +1,26 @@
 footer {
     background-color: lightslategray;
 }
+.house {
+    position: relative;
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h3 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: greenyellow;
+    width: 100%;
+    color: white;
+}
+.content {
+    margin-top: 15%;
+}
+.portfolio-tag{
+    margin-top:40%;
+    padding: 4%;
+    height: 400px;
+}
